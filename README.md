@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heynaberuy
 - 👀 I’m interested in Discord bots
 - 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on Disocrd
+- 💞️ I’m looking to collaborate someone on Disocrd
 - 📫 How to reach me Discord - ImRopoxPro#7099 [ID]- 756393473430519849
 
 <!---
