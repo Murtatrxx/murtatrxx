@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heynaberuy
 - 🔨 Developer of VisualBot
-- 👀 I’m interested in Discord bots
+- 👀 I’m interested with Discord bots & roblox games
 - 🌱 I’m currently learning C++
 - 📫 How to reach me Discord - ImRopoxPro#7099 [ID]- 756393473430519849
 
