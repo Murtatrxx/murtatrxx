@@ -11,7 +11,7 @@
 
 # 👋 About Me!
 
-Hello, I'm Murtatrxx, xxDeveloper. My timezone is <a href="https://24timezones.com/time-zone/gmt+3">GMT+3</a>. I'm experienced Roblox LUA scripter about 2 years. I'm trying to be as active as I can be (3-4 hours/day), I can work up to 😯 <strong>37</strong> hours per week (this is my record - <a href="https://calendar.google.com/calendar/u/0/r/week/2021/5/6?pli=1">05.06.2021</a>). I am accepting evrthing for now. Do you need a scripter why are you waiting, <strong>hire me!</strong>
+Hello, I'm Murtatrxx, xxDeveloper. My timezone is <a href="https://24timezones.com/time-zone/gmt+3">GMT+3</a>. I'm experienced JavaScripts bot programmer & backend developer about 2 years. I'm trying to be as active as I can be (3-4 hours/day), I can work up to 😯 <strong>37</strong> hours per week (this is my record - <a href="https://calendar.google.com/calendar/u/0/r/week/2021/5/6?pli=1">05.06.2021</a>).
 
 - :muscle:  Currently working on a discord bot and a big website.
 - :gift_heart:  Owner of VisualBot.
