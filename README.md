@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://discord.com"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.npmjs.com/~heynaberuy"><img alt="Npm" title="Npm" src="https://img.shields.io/badge/-Npm-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
-  <a href="https://web.roblox.com/users/1369550999/profile"><img alt="Roblox" title="Roblox" src="https://img.shields.io/badge/roblox?style=for-the-badge&logo=roblox&logoColor=green"/></a>
 </p>
 
 
@@ -18,7 +17,7 @@ Hello, I'm Murtatrxx, xxDeveloper. My timezone is <a href="https://24timezones.c
 
 ## :wrench: Interests
 
-![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) ![Roblox](https://img.icons8.com/color/30/roblox.png)
 
 ## My Activities
 
