@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://discord.com"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.npmjs.com/~heynaberuy"><img alt="Npm" title="Npm" src="https://img.shields.io/badge/-Npm-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https:https://roblox.com/users/1369550999/profile"><img alt="Roblox" title="Roblox" src="https://img.shields.io/static/v1?label=Roblox&message=Roblox&color=blue"/></a>
 </p>
 
 
