@@ -22,11 +22,11 @@ Hello, I'm Murtatrxx, xxDeveloper. My timezone is <a href="https://24timezones.c
 
 ## 🩺 Activities
 
-<a style="text-decoration: none;" href="https://github.com/heynaberuy">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=heynaberuy&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+<a style="text-decoration: none;" href="https://github.com/Murtatrxx">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Murtatrxx&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://github.com/heynaberuy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heynaberuy&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+<a href="https://github.com/Murtatrxx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murtatrxx&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 
