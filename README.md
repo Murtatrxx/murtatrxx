@@ -22,7 +22,8 @@
 
 ## 🛎 Repositories
 
-- <a href="https://github.com/visualbot-frontend">FrontEnd Development</a>
+- <a href="https://github.com/Murtatrxx/visualbot-frontend">FrontEnd Development</a>
+- <a href="https://github.com/Murtatrxx/visualbot">VisualBot </a>
 
 ## 🩺 Activities
 
