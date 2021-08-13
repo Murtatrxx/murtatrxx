@@ -15,6 +15,7 @@
 
 - :muscle:  Currently working on a discord bot and a big website.
 - :gift_heart:  Owner of VisualBot.
+- 👥 I like work with a team.
 
 ## 🔧 Interests
 
