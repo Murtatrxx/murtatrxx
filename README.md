@@ -23,7 +23,8 @@
 ## 🛎 Repositories
 
 - <a href="https://github.com/Murtatrxx/visualbot-frontend">FrontEnd Development</a>
-- <a href="https://github.com/Murtatrxx/visualbot">VisualBot </a>
+- <a href="https://github.com/Murtatrxx/visualbot">VisualBot (private)</a>
+- <a href="https://github.com/Murtatrxx/djs-bot">Triava (event)</a>
 
 
 ## 🥏 Activities
