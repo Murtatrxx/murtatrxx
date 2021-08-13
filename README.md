@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm <a href="https://roblox.com/users/1369550999/profile">xxDeveloper</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://discord.gg/R6d8AkDsV2"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/756393473430519849"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.npmjs.com/~heynaberuy"><img alt="Npm" title="Npm" src="https://img.shields.io/badge/-Npm-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="https://roblox.com/users/1369550999/profile"><img alt="Roblox" title="Roblox" src="https://img.shields.io/badge/Roblox-green?style=for-the-badge&logo=roblox"/></a>
 </p>
