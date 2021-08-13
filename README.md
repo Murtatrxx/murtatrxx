@@ -26,7 +26,7 @@
 - <a href="https://github.com/Murtatrxx/visualbot">VisualBot </a>
 
 
-## ⛓ Activities
+## 🥏 Activities
 
 <a style="text-decoration: none;" href="https://github.com/Murtatrxx">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Murtatrxx&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
