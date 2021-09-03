@@ -30,16 +30,9 @@
 
 ## 🥏 Activities
 
-<a style="text-decoration: none;" href="https://github.com/Murtatrxx">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Murtatrxx&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/Murtatrxx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murtatrxx&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
-
 <div align ="center">
 
-<img src="https://metrics.lecoq.io/Murtatrxx?base.repositories=0&languages=1&isocalendar=1&followup=1">
+  <img src="https://metrics.lecoq.io/Murtatrxx?base.repositories=0&languages=1&isocalendar=1&followup=1">
 
 </div>
 
