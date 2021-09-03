@@ -37,7 +37,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murtatrxx&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
+<div align ="center">
 
+<img src="https://metrics.lecoq.io/Murtatrxx?base.repositories=0&languages=1&isocalendar=1&followup=1">
+
+</div>
 
 ----
 
