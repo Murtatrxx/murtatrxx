@@ -13,11 +13,11 @@
 
 <br>Hello, I'm Murtatrxx, xxDeveloper. My timezone is <a href="https://24timezones.com/time-zone/gmt+3">GMT+3</a>. I'm experienced JavaScripts bot programmer & backend developer about 2 years. I'm trying to be as active as I can be (3-4 hours/day), I can work up to 😯 <strong>37</strong> hours per week (this is my record - <a href="https://calendar.google.com/calendar/u/0/r/week/2021/5/6?pli=1">05.06.2021</a>).</br>
 
-- :muscle:  Currently working on a discord bot and a big website.
-- :gift_heart:  Owner of VisualBot.
-- 👥 I like work with a team.
+- 💪  Currently working on 2 projects and a big website.
+- 💖  Owner of VisualBot.
+- 👥 Friendly developer ; D
 
-## 🔧 Tool & Languages I use
+## 🔧 Tool
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) ![Roblox](https://img.icons8.com/color/30/roblox.png) ![RobloxStudio](https://img.icons8.com/color/30/roblox-studio.png) ![NPM](https://img.icons8.com/color/30/npm) ![MongoDB](https://img.icons8.com/color/30/mongodb.png)
 
