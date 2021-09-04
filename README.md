@@ -19,7 +19,7 @@
 
 ## 🔧 Tools
 
-![HTML5](https://img.icons8.com/color/50/html-5.png) ![CSS3](https://img.icons8.com/color/50/css3.png) ![JavaScript](https://img.icons8.com/color/50/javascript.png) ![NodeJS](https://img.icons8.com/color/50/nodejs.png) ![Github](https://img.icons8.com/material-outlined/50/github.png) ![VSCode](https://img.icons8.com/color/50/visual-studio-code-2019.png) ![Roblox](https://img.icons8.com/color/50/roblox.png) ![RobloxStudio](https://img.icons8.com/color/50/roblox-studio.png) ![NPM](https://img.icons8.com/color/50/npm) ![MongoDB](https://img.icons8.com/color/50/mongodb.png) ![Ubunutu](https://img.icons8.com/ios-filled/50/000000/ubuntu.png) ![Windows](https://img.icons8.com/office/50/000000/windows-10.png)
+![HTML5](https://img.icons8.com/color/50/html-5.png) ![CSS3](https://img.icons8.com/color/50/css3.png) ![JavaScript](https://img.icons8.com/color/50/javascript.png) ![NodeJS](https://img.icons8.com/color/50/nodejs.png) ![Github](https://img.icons8.com/material-outlined/50/github.png) ![VSCode](https://img.icons8.com/color/50/visual-studio-code-2019.png) ![Roblox](https://img.icons8.com/color/50/roblox.png) ![RobloxStudio](https://img.icons8.com/color/50/roblox-studio.png) ![NPM](https://img.icons8.com/color/50/npm) ![MongoDB](https://img.icons8.com/color/50/mongodb.png) ![Ubunutu](https://img.icons8.com/ios-filled/50/000000/ubuntu.png) ![Python](https://img.icons8.com/dusk/60/000000/python.png)
 
 ## 🛎 Repositories
 
