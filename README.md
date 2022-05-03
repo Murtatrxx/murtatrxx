@@ -25,7 +25,7 @@
 ## 🛎 Repositories
 
 - <a href="https://github.com/Murtatrxx/visualbot-frontend">FrontEnd Development</a>
-- <a href="https://github.com/Murtatrxx/visualbot">VisualBot (private)</a>
+- <a href="https://github.com/sern-handler/sern">SernHandler</a><
 - <a href="https://github.com/Murtatrxx/djs-bot">Triava (event)</a>
 - <a href="https://github.com/PercleLang/percle">Percle, upcoming big language</a>
 
