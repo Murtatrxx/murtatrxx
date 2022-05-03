@@ -16,7 +16,7 @@
 - 💪 Currently working on 2 projects and a big website.
 - 💖 Owner of VisualBot.
 - 👥 Friendly developer ; D
-- 🖥️ Owner of [PercleLang](https://github.com/PercleLang), an upcoming-big programming language
+- 🖥️ Current busy with with [SernHandler](https://github.com/sern-handler) project
 
 ## 🔧 Tools
 
