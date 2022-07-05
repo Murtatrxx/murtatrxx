@@ -11,7 +11,7 @@
 
 # 👋 About Me!
 
-<h4>Hello, I'm Murtatrxx, xxDeveloper. My timezone is <a href="https://24timezones.com/time-zone/trt">GMT+3</a>. I'm experienced JavaScript and NodeJS programmer. I'm trying to be as active as I can be (3-4 hours/day), I can work up to 😯 <strong>37</strong> hours per week (this is my record - <a href="https://calendar.google.com/calendar/u/0/r/week/2021/5/6?pli=1">05.06.2021</a>).</h4>
+**Hello, I'm Murtatrxx, xxDeveloper. My timezone is <a href="https://24timezones.com/time-zone/trt">GMT+3</a>. I'm experienced JavaScript and NodeJS programmer. I'm trying to be as active as I can be (3-4 hours/day), I can work up to 😯 <strong>37</strong> hours per week (this is my record - <a href="https://calendar.google.com/calendar/u/0/r/week/2021/5/6?pli=1">05.06.2021</a>).**
 
 - 💪 Currently working on 2 projects and a big website.
 - 💖 Owner of VisualBot.
@@ -25,12 +25,10 @@
 ## 🛎 Repositories
 
 - <a href="https://github.com/Murtatrxx/visualbot-frontend">FrontEnd Development</a>
-- <a href="https://github.com/sern-handler/sern">SernHandler</a><
+- <a href="https://github.com/sern-handler">SernHandler</a>
 - <a href="https://github.com/Murtatrxx/djs-bot">Triava (event)</a>
-- <a href="https://github.com/PercleLang/percle">Percle, upcoming big language</a>
 
-
-## 🥏 Activities
+🥏 Activities
 
 <div align ="center">
 
