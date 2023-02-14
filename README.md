@@ -4,10 +4,9 @@
 
  </p>
  <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
-  <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Murtatrxx&color=brightgreen" alt="watching_count" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, xxDeveloper here. 😎</h1>
