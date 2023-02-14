@@ -1,43 +1,81 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<br>
 
-<h3 align="center">Hey there, I'm <a href="https://roblox.com/users/1369550999/profile">xxDeveloper</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<p align="left"> 
+
+ </p>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, xxDeveloper here. 😎</h1>
+<h3 align="center">Develops. Maintains. Deploys.</h3>
+<p align="center">
+<a href="https://discord.com/users/756393473430519849 target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="lin_ovindu" height="40" width="40" /></a>  
+<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
+</p>
+
+
 
 <p align="center">
-  <a href="https://discord.com/users/756393473430519849"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.npmjs.com/~heynaberuy"><img alt="Npm" title="Npm" src="https://img.shields.io/badge/-Npm-yellow?style=for-the-badge&logo=npm&logoColor=white"/></a>
-  <a href="https://roblox.com/users/1369550999/profile"><img alt="Roblox" title="Roblox" src="https://img.shields.io/badge/Roblox-green?style=for-the-badge&logo=roblox"/></a>
+  <em>
+    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Callme: ***He/They*** 😊 <br>
+✔ I’m currently Developing a **Discord bot**<br>
+✔ I’m currently learning about **TypeScript**🥰<br>
+✔ I’m looking to collaborate with any **TypeScript - discord.js developers**<br><br><br><br>
+ 
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<p>***Some tools that I use...***</p>
+<p align="left">
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<h3><i><b>Git Activeness</b></i></h3></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
 
 
-# 👋 About Me!
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" /></p>
 
-**Hello, I'm Murtatrxx, xxDeveloper. My timezone is <a href="https://24timezones.com/time-zone/trt">GMT+3</a>. I'm experienced JavaScript and NodeJS programmer. I'm trying to be as active as I can be (3-4 hours/day), I can work up to 😯 <strong>37</strong> hours per week (this is my record - <a href="https://calendar.google.com/calendar/u/0/r/week/2021/5/6?pli=1">05.06.2021</a>).**
-
-- 💪 Currently working on 2 projects and a big website.
-- 💖 Owner of VisualBot.
-- 👥 Friendly developer ; D
-- 🖥️ Current busy with with [SernHandler](https://github.com/sern-handler) project
-
-## 🔧 Tools
-
-![HTML5](https://img.icons8.com/color/50/html-5.png) ![CSS3](https://img.icons8.com/color/50/css3.png) ![JavaScript](https://img.icons8.com/color/50/javascript.png) ![NodeJS](https://img.icons8.com/color/50/nodejs.png) ![TS](https://img.icons8.com/color/50/000000/typescript.png) ![Github](https://img.icons8.com/material-outlined/50/github.png) ![VSCode](https://img.icons8.com/color/50/visual-studio-code-2019.png) ![Roblox](https://img.icons8.com/color/50/roblox.png) ![RobloxStudio](https://img.icons8.com/color/50/roblox-studio.png) ![NPM](https://img.icons8.com/color/50/npm) ![MongoDB](https://img.icons8.com/color/50/mongodb.png) ![Git](https://img.icons8.com/color/50/000000/git.png)
-
-## 🛎 Repositories
-
-- <a href="https://github.com/Murtatrxx/visualbot-frontend">FrontEnd Development</a>
-- <a href="https://github.com/sern-handler">SernHandler</a>
-- <a href="https://github.com/Murtatrxx/djs-bot">Triava (event)</a>
-
-🥏 Activities
-
-<div align ="center">
-
-  <img src="https://metrics.lecoq.io/Murtatrxx?base.repositories=0&languages=1&isocalendar=1&followup=1">
-
-</div>
-
-----
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Murtatrxx" alt="visitor badge"/>
-</p>
